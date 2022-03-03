@@ -19,6 +19,36 @@
 		 "IsIgnoringMessage":true,
 		 "PremiumEndBlock":3250417
       },
+	    {
+          "Address":"0xD6e93A8bD54f74c6543aad2f0E98d49E07718d07",
+	       	"IsProtected":true,
+            	"IsBanned":false,
+          	"ArenaBanner":1,
+            	"ArenaIcon":1,
+          	"SwordSkin":1,
+          	"FriendViewSkin":1,
+	      	"PremiumEndBlock":3950122
+       },
+	    {
+          "Address":"0x02229827ae99bF1AE0F0068654AB289776032189",
+	       	"IsProtected":true,
+            	"IsBanned":false,
+          	"ArenaBanner":1,
+            	"ArenaIcon":1,
+          	"SwordSkin":1,
+          	"FriendViewSkin":1,
+	      	"PremiumEndBlock":3950122
+       },
+	    {
+          "Address":"0x685aF8Dde484337c13665FbC4d535A53a6C03029",
+	       	"IsProtected":true,
+            	"IsBanned":false,
+          	"ArenaBanner":1,
+            	"ArenaIcon":1,
+          	"SwordSkin":1,
+          	"FriendViewSkin":1,
+	      	"PremiumEndBlock":3950122
+       },
       {
           "Address":"0xD0043Fb67c33fBe14787e96573C5C4273A0ea4D4",
 	       	"IsProtected":true,
