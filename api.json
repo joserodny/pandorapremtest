@@ -20,6 +20,16 @@
 		 "PremiumEndBlock":3250417
       },
 	    {
+          "Address":"0x21ebd41b89ef931cf89d81da3e65f0007930d4fa",
+	       	"IsProtected":true,
+            	"IsBanned":false,
+          	"ArenaBanner":1,
+            	"ArenaIcon":1,
+          	"SwordSkin":1,
+          	"FriendViewSkin":1,
+	      	"PremiumEndBlock":3950122
+       },
+	    {
           "Address":"0x080664c9D55bad37c07565e00A4d27d517CcFb66",
 	       	"IsProtected":true,
             	"IsBanned":false,
