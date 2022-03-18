@@ -20,16 +20,6 @@
           	"SwordSkin":1,
           	"FriendViewSkin":1,
 	      	"PremiumEndBlock":3950122
-       		},
-	    		{
-          	"Address":"0xA0b1cc3225ce54Dcd4BBC8Fed291C57bB363dBa2",
-	       	"IsProtected":true,
-            	"IsBanned":false,
-          	"ArenaBanner":1,
-            	"ArenaIcon":1,
-          	"SwordSkin":1,
-          	"FriendViewSkin":1,
-	      	"PremiumEndBlock":3642920
-       		}   
+       		}
    ]
 }
